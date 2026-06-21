@@ -36,7 +36,6 @@ const eviano = {
 
 ### The seam
 
-> AI collapsed the layers. The one person who can hold all of them at once is now worth more than the team that creates them.
 
 ```mermaid
 flowchart LR
