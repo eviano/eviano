@@ -1,5 +1,5 @@
 <a href="https://eviano.link">
-  <img src="assets/masthead.svg" alt="Ahmed Elkomy — Technical Product Manager, AI Products" width="100%" />
+  <img src="assets/masthead.svg" alt="Eviano — Technical Product Manager, AI Products" width="100%" />
 </a>
 
 <div align="center">
