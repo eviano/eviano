@@ -1,0 +1,28 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ahmed Elkomy — Technical Product Manager, AI Products">
+  <!-- paper ground -->
+  <rect width="1200" height="240" fill="#f3f1ea"/>
+
+  <!-- faint 12-column grid, echoing eviano.link -->
+  <g stroke="#0b0b0c" stroke-opacity="0.05" stroke-width="1">
+    <line x1="100" y1="0" x2="100" y2="240"/><line x1="200" y1="0" x2="200" y2="240"/>
+    <line x1="300" y1="0" x2="300" y2="240"/><line x1="400" y1="0" x2="400" y2="240"/>
+    <line x1="500" y1="0" x2="500" y2="240"/><line x1="600" y1="0" x2="600" y2="240"/>
+    <line x1="700" y1="0" x2="700" y2="240"/><line x1="800" y1="0" x2="800" y2="240"/>
+    <line x1="900" y1="0" x2="900" y2="240"/><line x1="1000" y1="0" x2="1000" y2="240"/>
+    <line x1="1100" y1="0" x2="1100" y2="240"/>
+  </g>
+
+  <!-- meta labels -->
+  <text x="48" y="52" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Menlo, monospace" font-size="13" letter-spacing="2" fill="#6e6b62">EVIANO — PROFILE</text>
+  <text x="1152" y="52" text-anchor="end" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Menlo, monospace" font-size="13" letter-spacing="2" fill="#6e6b62">OPEN TO REMOTE · GMT+4</text>
+
+  <!-- name -->
+  <text x="44" y="140" font-family="Archivo, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-1" fill="#0b0b0c">AHMED ELKOMY</text>
+
+  <!-- the seam rule — the one signal red -->
+  <rect x="48" y="164" width="1104" height="5" fill="#c82a12"/>
+
+  <!-- role line -->
+  <text x="48" y="205" font-family="Archivo, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#1c1b19">Technical Product Manager — AI Products</text>
+  <text x="1152" y="205" text-anchor="end" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', Menlo, monospace" font-size="13" letter-spacing="2" fill="#a8230f">PRODUCT · UX · AI · ENGINEERING</text>
+</svg>
